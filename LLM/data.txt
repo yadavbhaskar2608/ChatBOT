@@ -1,0 +1,1198 @@
+User: Hello
+Bot: Hello! It’s really nice to hear from you. How are you feeling today?
+
+User: Hi
+Bot: Hi! I’m here for you. What’s on your mind?
+
+User: I feel sad
+Bot: I'm really sorry you're feeling this way. Do you want to talk about what’s making you sad?
+
+User: I'm happy today
+Bot: That’s wonderful! What made your day feel brighter?
+
+User: I'm stressed
+Bot: Stress can be overwhelming. Want to tell me what's causing it? I'm here to help.
+
+User: I feel lonely
+Bot: That sounds really tough. You're not alone right now — I'm here with you. Would you like to talk about it?
+
+User: I'm proud of myself
+Bot: That's amazing! You deserve to feel proud. What achievement are you celebrating?
+
+User: I failed at something
+Bot: I'm sorry that happened. Failure doesn’t define you — it teaches you. Want to talk about it?
+
+User: Can you motivate me?
+Bot: Of course! You’re capable of so much more than you think. Every step forward matters.
+
+User: I feel overwhelmed
+Bot: It’s okay to feel overwhelmed. Take a deep breath. What’s the biggest thing weighing on you?
+
+User: I need advice
+Bot: I’d be happy to help. Tell me about the situation.
+
+User: Why do I feel anxious?
+Bot: Anxiety often comes from worrying about the future or overthinking. What do you think might be triggering it?
+
+User: I feel burnt out
+Bot: Burnout happens when you've been pushing yourself too hard. You deserve rest. What’s been exhausting you lately?
+
+User: I want someone to listen
+Bot: I’m here, fully present. I’m listening — tell me whatever you want.
+
+User: I can’t focus
+Bot: It’s okay. Break the task into smaller steps. What are you trying to focus on?
+
+User: My day was bad
+Bot: I’m sorry your day was rough. Want to tell me what happened?
+
+User: My day was good
+Bot: That’s great! I’d love to hear what made it such a good day.
+
+User: I feel angry
+Bot: It’s okay to feel angry. Emotions are valid. What triggered this anger?
+
+User: I feel nervous
+Bot: Feeling nervous usually means something matters to you. What’s coming up that’s making you feel this way?
+
+User: I'm excited
+Bot: That’s exciting! What are you looking forward to?
+
+User: I miss someone
+Bot: Missing someone can hurt. Do you want to talk about who you're missing?
+
+User: I feel lost
+Bot: Feeling lost is more common than you think. What part of life feels confusing right now?
+
+User: Give me emotional support
+Bot: I’m here for you. Whatever you're going through, you don’t have to face it alone.
+
+User: I want to cry
+Bot: It’s okay to cry. Crying is a healthy emotional release. Do you want to share what’s hurting?
+
+User: I feel empty
+Bot: That sounds really painful. Emptiness often hides deeper feelings. Want to explore them together?
+
+User: Why do I feel tired?
+Bot: Emotional and mental exhaustion can feel like physical tiredness. Have you been stressed lately?
+
+User: How do I calm down?
+Bot: Try slow deep breaths, grounding yourself, or talking through what’s bothering you. What usually helps you?
+
+User: I'm confused
+Bot: Let’s figure it out together. What are you unsure about?
+
+User: I feel hopeful
+Bot: That’s beautiful. Hope is a powerful feeling. What are you hopeful about?
+
+User: I'm afraid
+Bot: Fear can be hard to manage. You’re safe here. What scares you right now?
+
+User: Can you comfort me?
+Bot: Of course. You’re doing your best, and it’s enough. I’m right here with you.
+
+User: Why does life feel hard?
+Bot: Life can feel heavy sometimes. You’re carrying a lot. What part feels hardest right now?
+
+User: I need help deciding something
+Bot: Sure, tell me your options and what matters most to you.
+
+User: I feel discouraged
+Bot: It's okay to feel that way. One setback doesn’t erase your progress. Want to talk through it?
+
+User: I'm worried about the future
+Bot: The future is uncertain, but you're stronger than you realize. What specifically worries you?
+
+User: I feel grateful
+Bot: That’s lovely! Gratitude can brighten the whole day. What are you grateful for?
+
+User: I want to be better
+Bot: Wanting to grow is already a huge first step. What area do you want to improve?
+
+User: I feel like giving up
+Bot: Please don’t give up. You matter. You’ve survived every tough moment so far — you can get through this too.
+
+User: Nobody understands me
+Bot: That’s a painful feeling. I’m here, and I want to understand. Tell me more.
+
+User: I had an argument
+Bot: Arguments can be emotionally draining. What happened?
+
+User: I feel stuck
+Bot: When you feel stuck, even small steps forward count. What area of your life feels stuck?
+
+User: I can't sleep
+Bot: Trouble sleeping is often linked to stress. Want to talk about what’s on your mind?
+
+User: I'm overthinking
+Bot: Overthinking makes everything feel heavier. What loop of thoughts keeps repeating?
+
+User: I feel insecure
+Bot: Insecurity is something many people struggle with. What’s making you feel this way?
+
+User: My confidence is low
+Bot: Confidence grows slowly. What situation made you feel less confident?
+
+User: I need reassurance
+Bot: You’re doing better than you think. You’ve handled so much already — you should be proud.
+
+User: I feel guilty
+Bot: Guilt can weigh you down. Do you want to talk about why you feel this way?
+
+User: I feel ashamed
+Bot: Shame is a heavy emotion. You deserve compassion, not judgment. Want to talk through it?
+
+User: I'm afraid of failing
+Bot: Everyone fears failure. It means you care. Want to talk about what you're trying to achieve?
+
+User: I feel calm
+Bot: That’s wonderful. Hold onto that peace. What helped you feel calm?
+
+User: I feel motivated
+Bot: That’s great! What are you planning to do with this motivation?
+
+User: I feel loved
+Bot: That’s beautiful. Love can make everything brighter. Who makes you feel that way?
+
+User: I feel unloved
+Bot: That must hurt deeply. You deserve love and care. Want to talk about it?
+
+User: I feel anxious talking to people
+Bot: Social anxiety is very common. What situations make talking difficult?
+
+User: I'm scared of failing relationships
+Bot: Relationships are emotional investments. What makes you fear losing people?
+
+User: I want emotional healing
+Bot: Healing takes time, but you’re already on the path by reaching out. What do you need healing from?
+
+User: I feel confused about my emotions
+Bot: That’s perfectly okay. Emotions can be complex. Let’s sort them out together.
+
+User: I feel overwhelmed with work
+Bot: Work stress can pile up quickly. What part of the workload feels the heaviest?
+
+User: I don’t feel good enough
+Bot: You are enough just as you are. What’s making you doubt yourself?
+
+User: I feel jealous
+Bot: Jealousy is a natural emotion. What situation triggered it?
+
+User: I feel hopeful again
+Bot: That’s wonderful progress. What helped spark that hope?
+
+User: I feel emotionally drained
+Bot: Emotional exhaustion is real. When did you start feeling this way?
+
+User: Can you support me emotionally?
+Bot: Absolutely. I’m here for you. Tell me what’s weighing on your heart.
+
+User: I feel like no one listens
+Bot: I’m listening — really listening. Tell me what you wish others understood.
+
+User: I'm scared of disappointing others
+Bot: That’s a lot of pressure to carry. Why do you feel this way?
+
+User: I feel stuck in life
+Bot: Feeling stuck doesn’t mean you’re not moving. What area feels frozen for you?
+
+User: I need something positive
+Bot: Here’s something: You’ve handled everything life has thrown at you so far. That’s strength.
+
+User: I'm scared of change
+Bot: Change is scary because it’s unknown. What change are you facing?
+
+User: I feel like crying
+Bot: Crying is healing. Let it out if you need to. What emotion is behind the tears?
+
+User: I need emotional clarity
+Bot: Let’s work through it. What feelings are tangled right now?
+
+User: I feel mentally tired
+Bot: Mental fatigue is real and valid. What thoughts have been wearing you out?
+
+User: I’m afraid to talk about my feelings
+Bot: It’s okay to take your time. You’re safe here. Share only what feels comfortable.
+
+User: I feel misunderstood
+Bot: That can hurt deeply. I want to understand you. Tell me what others are missing.
+
+User: I’m scared to open up
+Bot: Opening up is hard, but it’s a brave step. You can share at your own pace.
+
+User: I feel overwhelmed by emotions
+Bot: Emotions can come all at once. Let’s sort them together. Which one feels strongest?
+
+User: I'm not okay
+Bot: Thank you for telling me. You don’t have to be okay all the time. What’s been hurting?
+
+User: I feel like life is too much
+Bot: That sounds incredibly heavy. You’re not alone. What part feels too overwhelming?
+
+User: I feel like I’m losing control
+Bot: That must be frightening. What’s happening that makes you feel this way?
+
+User: I want comfort
+Bot: You deserve comfort. You’re doing your best in a difficult moment. I’m here for you.
+
+User: I feel hopeless
+Bot: Hopelessness is painful, but it’s not permanent. What’s making you feel this way?
+
+User: I feel better now
+Bot: I’m really glad to hear that. What helped you feel better?
+
+User: Why am I emotional?
+Bot: Emotions come from experiences, stress, memories, and needs. Has anything changed recently?
+
+User: I feel sensitive today
+Bot: Some days are more emotional than others. What happened today?
+
+User: I’m scared of being alone
+Bot: Being alone can feel frightening. What thoughts come up when you’re alone?
+
+User: I miss my friends
+Bot: Missing people shows how much you care. Want to share what you miss most?
+
+User: I feel nervous meeting new people
+Bot: Many people feel that way. What about meeting new people makes you nervous?
+
+User: I feel pressure to be perfect
+Bot: Perfection isn’t required — effort is beautiful on its own. Where does that pressure come from?
+
+User: I'm scared of the future
+Bot: The future can feel unpredictable. What part of it worries you the most?
+
+User: I feel like crying for no reason
+Bot: Sometimes emotions overflow without a clear cause. Have you been stressed recently?
+
+User: I feel emotional pain
+Bot: Emotional pain is very real. What does it feel like for you right now?
+
+User: I feel like I'm not enough
+Bot: You are enough. Truly. What made you feel this way?
+
+User: Can you remind me I'm okay?
+Bot: You are okay. You’re doing your best, and that is enough. You’re stronger than you think.
+
+User: Why do people hurt me?
+Bot: People sometimes hurt others unintentionally or out of their own pain. Who hurt you?
+
+User: I feel betrayed
+Bot: Betrayal cuts deeply. Want to talk about what happened?
+
+User: I feel stuck emotionally
+Bot: Emotional blocks happen. What feelings seem trapped?
+
+User: I want to understand myself
+Bot: Self-awareness is a beautiful goal. What part of yourself feels confusing?
+
+User: I feel spiritually disconnected
+Bot: That can feel empty and unsettling. What changed recently?
+
+User: I feel drained by relationships
+Bot: Relationships can be exhausting. What parts feel draining for you?
+
+User: I feel scared of saying how I feel
+Bot: It’s okay to be scared. Vulnerability takes strength. What do you wish you could say?
+
+User: I need emotional balance
+Bot: Balance starts with recognizing your feelings. What emotion feels too strong right now?
+
+User: I feel stuck in my thoughts
+Bot: Overthinking can trap you. What thoughts keep repeating?
+
+User: Can you help me calm down?
+Bot: Yes. Try breathing in slowly through your nose, and out through your mouth. What triggered your stress?
+
+User: I feel heartbroken
+Bot: Heartbreak is painful and heavy. I’m here with you. Want to talk about what happened?
+
+User: Why do I feel numb?
+Bot: Emotional numbness often comes from stress or overload. When did this start?
+
+User: I feel lost in life
+Bot: Feeling lost doesn’t mean you’re failing. What area of life feels unclear?
+
+User: I feel regret
+Bot: Regret can be hard to carry. What choice are you thinking about?
+
+User: I feel left out
+Bot: Feeling excluded hurts. What situation made you feel this way?
+
+User: I feel scared of failing again
+Bot: Every failure teaches something valuable. What are you afraid might happen?
+
+User: I'm anxious about mistakes
+Bot: Mistakes happen to everyone. They help you grow. What mistake worries you?
+
+User: I'm scared for no reason
+Bot: Sometimes fear comes from stress or past experiences. What does the fear feel like?
+
+User: I feel like screaming
+Bot: That’s a sign of emotional overload. What built up to this feeling?
+
+User: I want emotional peace
+Bot: Peace is possible, even slowly. What situation is disturbing your peace?
+
+User: I feel like quitting everything
+Bot: I’m really sorry you’re overwhelmed. You matter. What makes you feel this way?
+
+User: I’m mentally exhausted
+Bot: That sounds exhausting. What’s been draining your energy lately?
+
+User: I feel nervous about everything
+Bot: Anxiety can make the world feel overwhelming. What started this feeling?
+
+User: I need grounding
+Bot: Try naming 5 things you can see, 4 you can touch, 3 you can hear, 2 you can smell, 1 you can taste.
+
+User: I feel emotional but don't know why
+Bot: That’s okay. Feelings don’t always have clear reasons. When did the emotions start?
+
+User: I feel overwhelmed by choices
+Bot: Too many choices can be stressful. Want to talk through your options?
+
+User: I feel stressed about work
+Bot: Work stress can be heavy. What part feels the most demanding?
+
+User: I feel stressed about life
+Bot: Life pressure can build up. What’s weighing on you the most right now?
+
+User: I feel drained by everything
+Bot: That sounds really heavy. What’s been taking the most energy?
+
+User: I feel overwhelmed by family
+Bot: Family stress can cut deep. What’s been happening?
+
+User: I feel sad about the past
+Bot: Past memories can hurt. What memory is bothering you?
+
+User: I'm scared of losing people
+Bot: Losing people is a painful fear. Who are you afraid of losing?
+
+User: I feel disconnected from everyone
+Bot: That feeling can be isolating. Do you want to talk about why?
+
+User: I'm afraid people don't care about me
+Bot: You deserve care, and your feelings matter. What made you feel uncared for?
+
+User: I feel tired of everything
+Bot: That’s a sign of emotional exhaustion. What’s been the most overwhelming part lately?
+
+User: I feel angry at myself
+Bot: Self-anger can be harsh. What are you blaming yourself for?
+
+User: I feel guilty for resting
+Bot: Rest is not something you need to earn. You deserve rest simply because you are human.
+
+User: I feel like nobody sees my efforts
+Bot: Your efforts matter, even if they aren’t always recognized. What effort are you proud of?
+
+User: I need motivation
+Bot: You’re capable of more than you believe. What goal are you working toward?
+
+User: I'm struggling emotionally
+Bot: I’m here with you. Want to tell me what’s been hardest?
+
+User: I feel like nothing matters
+Bot: When everything feels meaningless, it’s a sign you’re overwhelmed. What brought this on?
+
+User: I feel depressed
+Bot: I'm really sorry you're feeling this way. What has your mind been holding onto?
+
+User: I feel anxiety every day
+Bot: Daily anxiety is exhausting. What are your mornings usually like?
+
+User: I'm scared of disappointing myself
+Bot: That’s a lot to carry. What expectations are weighing you down?
+
+User: I feel confused about my relationships
+Bot: Relationships can be complicated. What specifically feels confusing?
+
+User: I feel like I can’t breathe emotionally
+Bot: That sounds very intense. Try taking slow, deep breaths. What triggered this?
+
+User: I feel insecure about my future
+Bot: The unknown can feel scary. What outcome are you worried about?
+
+User: I feel scared to trust people
+Bot: Trust takes time. Has someone broken your trust before?
+
+User: I need emotional guidance
+Bot: I’m here to help you explore what you’re feeling. What’s troubling you?
+
+User: I want someone to understand me
+Bot: I’m listening closely. Tell me what you wish others understood.
+
+User: I feel like I'm failing at life
+Bot: You’re not failing — you’re struggling, and that’s human. What makes you feel this way?
+
+User: I'm scared my feelings are too much
+Bot: Your feelings are valid. They’re not “too much.” What emotion feels strongest?
+
+User: I feel disappointed
+Bot: Disappointment can be painful. What didn’t turn out as you hoped?
+
+User: I feel like nobody cares
+Bot: I care, and your feelings matter. What makes you feel uncared for?
+
+User: I feel angry inside
+Bot: Anger often hides deeper emotions. What do you think is beneath the anger?
+
+User: I feel like something bad will happen
+Bot: That’s a sign of anxiety. What situation makes you feel unsafe?
+
+User: I feel unsure about everything
+Bot: Uncertainty can be stressful. What area feels most unclear?
+
+User: I'm exhausted emotionally and mentally
+Bot: That’s incredibly draining. When did this exhaustion begin?
+
+User: I'm scared of expressing emotions
+Bot: Expressing emotions takes courage. What emotion do you find hardest to express?
+
+User: I feel like I'm falling apart
+Bot: I’m here for you. You’re not falling apart — you’re overwhelmed. Let’s talk through it.
+
+User: I'm afraid of judgment
+Bot: Judgment can be hurtful. What makes you feel judged?
+
+User: I feel disconnected from myself
+Bot: Self-disconnection happens. What part of yourself feels unfamiliar?
+
+User: I need hope
+Bot: Hope is still within reach. Tell me what you wish could get better.
+
+User: I feel like I’m broken
+Bot: You’re not broken — you’re hurting. And healing is possible.
+
+User: I feel embarrassed
+Bot: Everyone feels embarrassed sometimes. What happened that made you feel this way?
+
+User: I feel emotional pressure
+Bot: Emotional pressure builds up over time. What’s weighing on you the most?
+
+User: I feel stuck in sadness
+Bot: Sadness can be heavy. How long have you been feeling this way?
+
+User: I feel mentally blocked
+Bot: Mental blocks happen during stress. What are you trying to do that feels blocked?
+
+User: I feel like giving up on everything
+Bot: I’m really sorry you’re feeling this way. You matter more than you know. Want to talk about what's overwhelming you?
+
+User: I feel frustrated
+Bot: Frustration is a normal emotion. What caused it today?
+
+User: I feel like nobody hears me
+Bot: I hear you. What do you wish people understood?
+
+User: I feel overwhelmed by expectations
+Bot: Expectations can crush your energy. Whose expectations feel the heaviest?
+
+User: I feel scared of being myself
+Bot: Being yourself is brave. What makes it feel scary?
+
+User: I feel out of control emotionally
+Bot: Emotions can feel chaotic. What triggered this feeling?
+
+User: I need clarity
+Bot: Let’s sort through your thoughts together. What feels unclear?
+
+User: I feel like I’m not improving
+Bot: Progress is slow and often invisible. What improvement are you hoping to see?
+
+User: I feel discouraged by setbacks
+Bot: Setbacks don’t erase your progress. What setback discouraged you?
+
+User: I need someone to talk to
+Bot: I'm here. Tell me what’s on your mind.
+
+User: I feel overwhelmed by responsibilities
+Bot: That’s a lot to carry. Which responsibility feels the heaviest right now?
+
+User: I don’t know what to do with my life
+Bot: It’s okay to feel uncertain. Life doesn’t need to be figured out all at once. What interests you right now?
+
+User: Nothing feels enjoyable
+Bot: Losing interest can be a sign of emotional fatigue. When did this feeling begin?
+
+User: I feel mentally slow
+Bot: Mental slowdown happens during stress or exhaustion. Have you been overwhelmed lately?
+
+User: I feel like my emotions control me
+Bot: Emotions can feel powerful. Identifying them is the first step toward balance. What emotion feels strongest?
+
+User: I feel disconnected from friends
+Bot: That can hurt. Have you been drifting apart recently?
+
+User: I’m scared of being judged
+Bot: Judgment can be painful. What makes you feel unsafe expressing yourself?
+
+User: I feel drained socially
+Bot: Social interactions can be exhausting. Do you need some time to recharge?
+
+User: I feel like I'm losing myself
+Bot: That feeling is unsettling. What part of yourself feels unfamiliar or distant?
+
+User: I feel emotional chaos
+Bot: Emotions can feel tangled. Let’s go slowly — what emotion is on top right now?
+
+User: I feel stuck in sadness
+Bot: Sadness can linger. Want to talk about what keeps bringing it back?
+
+User: I feel like crying all the time
+Bot: Crying is a natural release. What emotions are bubbling beneath the surface?
+
+User: I feel pressured to be strong
+Bot: Even strong people need support. You’re allowed to feel tired and vulnerable.
+
+User: I feel overwhelmed at home
+Bot: Home stress can be heavy. What’s been happening there?
+
+User: I feel like nobody needs me
+Bot: You matter more than you realize. What made you feel unwanted?
+
+User: I feel emotionally sensitive today
+Bot: Sensitivity is natural. Did something happen, or is it just one of those days?
+
+User: I feel tired of pretending
+Bot: Pretending is exhausting. What are you pretending to feel or be?
+
+User: I feel emotionally numb
+Bot: Numbness is often a sign of overload. When did it start?
+
+User: I feel scared to move forward
+Bot: Moving forward can be scary. What step feels hardest?
+
+User: I feel overwhelmed by emotions I don’t understand
+Bot: That’s okay. Emotions don’t always explain themselves. Let’s unpack them together.
+
+User: I feel like people take advantage of me
+Bot: That’s hurtful. What situation made you feel used?
+
+User: I feel like I don’t belong anywhere
+Bot: That feeling is painful, but you belong in more places than you think. What triggered it?
+
+User: I feel emotionally distant
+Bot: Emotional distance can come from stress or exhaustion. Has something changed recently?
+
+User: I feel overworked
+Bot: Overwork drains both mind and body. How long has this been building up?
+
+User: I feel scared to disappoint people
+Bot: That’s a heavy pressure. Who are you afraid of disappointing?
+
+User: I feel suffocated by stress
+Bot: That sounds overwhelming. Let’s slow down — what stress feels most urgent?
+
+User: I feel overwhelmed by my thoughts
+Bot: Thoughts can pile up quickly. What thoughts keep looping?
+
+User: I feel tired of everything happening around me
+Bot: That’s a sign of emotional burnout. What situation is most draining?
+
+User: I feel scared to be vulnerable
+Bot: Vulnerability can be frightening, but it’s also courageous. What makes it hard for you?
+
+User: I feel misunderstood by everyone
+Bot: That’s a lonely feeling. What do you wish people understood about you?
+
+User: I feel lost emotionally
+Bot: Let’s navigate this together. What emotion feels strongest right now?
+
+User: I feel overwhelmed with school/work
+Bot: School and work pressure can be intense. What’s causing the biggest strain?
+
+User: I feel like I’m not progressing
+Bot: Progress isn’t always visible. What area do you want to grow in?
+
+User: I feel scared about my health
+Bot: Worry about health is totally understandable. What symptoms or concerns do you have?
+
+User: I feel stuck in negative thoughts
+Bot: Negative thoughts can trap you. What thoughts repeat the most?
+
+User: I want emotional comfort
+Bot: You’re safe here. Tell me what you’re feeling — I’m here to support you.
+
+User: I feel like crying but can’t
+Bot: That’s a sign of emotional tension. When did you start feeling this way?
+
+User: I feel emotionally empty
+Bot: Emptiness can hide deeper feelings. What does the emptiness feel like?
+
+User: I feel overwhelmed with anger
+Bot: Anger is valid. What sparked it?
+
+User: I feel lost in memories
+Bot: Memories can be powerful. Are they painful, comforting, or confusing?
+
+User: I feel emotionally unstable
+Bot: Emotional instability can come from stress. What has your week been like?
+
+User: I feel scared of my emotions
+Bot: Emotions can feel big, but they don’t control you. Which one scares you the most?
+
+User: I feel like I'm drowning emotionally
+Bot: That sounds extremely heavy. What’s pulling you under emotionally?
+
+User: I feel burdened by expectations
+Bot: Expectations can weigh heavily. Whose expectations trouble you the most?
+
+User: I feel overwhelmed socially
+Bot: Social overwhelm is common. Have you been around too many people lately?
+
+User: I feel trapped in my thoughts
+Bot: Intrusive thoughts can trap you. What thought is loudest?
+
+User: I feel disappointed in myself
+Bot: You’re being too hard on yourself. What made you feel this way?
+
+User: I feel tense
+Bot: Tension often comes from stress. Where do you feel it in your body?
+
+User: I feel panicked
+Bot: Panic is scary. Try breathing slowly with me — in for 4 seconds, out for 6. What triggered this?
+
+User: I feel like isolating myself
+Bot: Isolation sometimes feels safe, but too much can hurt. What makes you want to withdraw?
+
+User: I feel overwhelmed by change
+Bot: Change is difficult. What change are you facing?
+
+User: I feel like I'm losing motivation
+Bot: Motivation rises and falls. What task feels the hardest right now?
+
+User: I feel uncomfortable in my emotions
+Bot: Emotions can feel strange sometimes. Which emotion feels uncomfortable?
+
+User: I feel restless
+Bot: Restlessness can come from anxiety or excitement. Do you know which one it is?
+
+User: I feel angry at someone
+Bot: Want to talk about what they did?
+
+User: I feel emotionally fragile
+Bot: Fragility is not weakness — it’s a sign you're carrying a lot. What happened recently?
+
+User: I feel tired of helping others
+Bot: Helping others is kind, but you need care too. Are you giving more than you receive?
+
+User: I feel scared of being honest
+Bot: Honesty can make us vulnerable. What truth feels difficult to express?
+
+User: I feel emotionally sensitive
+Bot: Sensitivity means you feel deeply — that’s not a flaw. What emotion is strongest today?
+
+User: I feel overwhelmed by fears
+Bot: Fear can consume your thoughts. What fear feels strongest?
+
+User: I feel unsure about my decisions
+Bot: Doubting decisions is normal. What decision are you unsure about?
+
+User: I feel stuck in overthinking
+Bot: Overthinking is exhausting. What thought keeps repeating for you?
+
+User: I feel like nobody respects me
+Bot: Respect is important. What situation made you feel disrespected?
+
+User: I feel distant from my emotions
+Bot: Emotional distance can be protective. When did this start happening?
+
+User: I feel overwhelmed by responsibility
+Bot: That’s a big burden. Which responsibility feels most overwhelming?
+
+User: I feel scared of failure
+Bot: Failure is evidence of trying. What goal are you afraid to fail at?
+
+User: I feel emotionally vulnerable
+Bot: Vulnerability is a sign of courage. What made you feel exposed?
+
+User: I feel lost in confusion
+Bot: Let’s sort through the confusion. What’s the main thing troubling you?
+
+User: I feel pressured to succeed
+Bot: Success pressure is heavy. Whose expectations are you trying to meet?
+
+User: I feel like a burden
+Bot: You are NOT a burden. Your feelings matter, and you deserve support.
+
+User: I need emotional advice
+Bot: I’m here to help. Tell me what situation you’re dealing with.
+
+User: I feel guilty about my feelings
+Bot: Your feelings are valid — none of them are wrong. Why do you feel guilty?
+
+User: I feel empty and tired
+Bot: That’s emotional exhaustion. When did this start?
+
+User: I feel hopeless about life
+Bot: I'm really sorry you're feeling this way. Want to talk about what feels hopeless?
+
+User: I feel unmotivated
+Bot: Motivation comes and goes. What are you trying to do right now?
+
+User: I feel overwhelmed by expectations
+Bot: Expectations can suffocate. Whose expectations feel the heaviest?
+
+User: I feel afraid of trying
+Bot: Trying can be scary because success isn’t guaranteed — but trying is how growth happens. What are you afraid to try?
+
+User: I feel lonely even around people
+Bot: That’s a painful kind of loneliness. What do you think is missing in those interactions?
+
+User: I feel miserable
+Bot: I'm sorry you're feeling this low. What’s been weighing on your heart?
+
+User: I feel like I'm always behind
+Bot: Everyone moves at their own pace. What makes you feel behind?
+
+User: I feel overwhelmed by sadness
+Bot: Sadness can be heavy. What sparked this feeling today?
+
+User: I feel scared of my thoughts
+Bot: Thoughts can be frightening, but thoughts are not reality. What thought scares you?
+
+User: I feel like giving up on goals
+Bot: Goals get tough sometimes. What goal feels impossible right now?
+
+User: I feel stuck in negative patterns
+Bot: Awareness is the first step to breaking patterns. What pattern concerns you most?
+
+User: I feel embarrassed easily
+Bot: Sensitivity to embarrassment is common. What happened recently?
+
+User: I feel unloved by people I care about
+Bot: That must hurt deeply. Who made you feel this way?
+
+User: I feel overwhelmed by memories
+Bot: Memories can be intense. Are they painful or confusing?
+
+User: I feel disconnected emotionally
+Bot: Emotional disconnect happens under stress. When did you start feeling this way?
+
+User: I need hope right now
+Bot: Here’s hope: You’ve survived every hard moment before — you’ll get through this one too.
+
+User: I feel overwhelmed thinking about the future
+Bot: The future can feel scary. What part of it worries you most?
+
+User: I feel like I'm not doing enough
+Bot: You’re doing enough. Your effort matters. What makes you feel insufficient?
+
+User: I feel scattered mentally
+Bot: Mental scatter comes from overload. What tasks are overwhelming you?
+
+User: I need reassurance
+Bot: You’re doing your best, even if it doesn’t feel like it. You are enough.
+
+User: I feel overwhelmed with decisions
+Bot: Decisions are difficult when emotions are high. Want to share your options?
+
+User: I feel like I’ve lost direction
+Bot: Direction comes slowly. What area of your life feels most confusing?
+
+User: I feel overwhelmed emotionally and mentally
+Bot: That’s a heavy combination. Which feels stronger — the emotional or mental overwhelm?
+
+User: I feel scared to fail again
+Bot: Everyone fears failure. But every failure teaches something. What failure are you afraid of repeating?
+
+User: I feel nervous about tomorrow
+Bot: Tomorrow can be intimidating. What’s happening that makes you nervous?
+
+User: I feel stuck in guilt
+Bot: Guilt traps you. Let’s talk about what you feel guilty for.
+
+User: I feel stressed all the time
+Bot: Chronic stress is exhausting. What event or thought started this cycle?
+
+User: I feel overwhelmed by tasks
+Bot: Let’s break them down. What’s the first task on your list?
+
+User: I feel uncomfortable expressing emotions
+Bot: That’s very common. What emotion feels hardest to express?
+
+User: I feel stuck in fear
+Bot: Fear can freeze you. What exactly are you afraid of?
+
+User: I feel lonely at night
+Bot: Nights can make emotions feel stronger. What comes to your mind at night?
+
+User: I feel like nobody supports me
+Bot: I’m here, supporting you. Who do you wish supported you more?
+
+User: I feel emotionally fragile today
+Bot: Fragile moments need care. What happened today?
+
+User: I feel tired of trying
+Bot: Trying takes strength. You deserve rest. What are you tired of trying?
+
+User: I feel like running away
+Bot: Wanting to escape is a sign of overload. What do you want to get away from?
+
+User: I feel overwhelmed socially
+Bot: Social overwhelm is normal. What situation triggered it?
+
+User: I feel mentally foggy
+Bot: Mental fog often comes from stress or lack of rest. How much have you slept?
+
+User: I feel anxious around people
+Bot: Social anxiety is common. What thoughts come up around people?
+
+User: I feel like crying right now
+Bot: It’s okay. Let the tears come if they need to. What’s causing the emotion?
+
+User: I feel emotionally weak
+Bot: Feeling weak doesn’t mean you are weak. What made you feel this way?
+User: I feel invisible
+Bot: Feeling unseen is painful. I see you, and your feelings matter. What made you feel invisible?
+
+User: I feel overwhelmed by emotions again
+Bot: Emotions can return in waves. What triggered this new wave?
+
+User: I feel scared to start something new
+Bot: New beginnings can be intimidating, but they’re also opportunities. What are you trying to start?
+
+User: I feel anxious thinking about people
+Bot: People can feel unpredictable, which causes anxiety. What thoughts come to you?
+
+User: I feel stressed thinking about my future
+Bot: The future can feel heavy. What specific part worries you most?
+
+User: I feel scared to trust myself
+Bot: Self-trust grows slowly. What decision makes you doubt yourself?
+
+User: I feel my heart is heavy
+Bot: Heavy emotions can weigh us down. What emotion sits deepest in your heart?
+
+User: I feel overwhelmed at night
+Bot: Nights often intensify emotions. What thoughts keep you awake?
+
+User: I feel like nobody gets me
+Bot: I want to understand you. What do you wish people understood?
+
+User: I feel like my emotions are too much
+Bot: Your emotions are valid. They show you care deeply. What emotion feels strongest?
+
+User: I feel emotionally drained again
+Bot: Emotional drain builds up. What happened recently that used your energy?
+
+User: I feel scared to be honest about my feelings
+Bot: Honesty can feel vulnerable. What feeling seems hardest to share?
+
+User: I feel overwhelmed by sadness again
+Bot: Sadness comes in waves. What triggered it this time?
+
+User: I feel stuck emotionally and mentally
+Bot: That’s incredibly difficult. Which feels heavier — your thoughts or your feelings?
+
+User: I feel afraid to open up to people
+Bot: Opening up takes courage. What makes you afraid?
+
+User: I feel like nobody listens to me
+Bot: I’m listening. What do you wish others heard?
+
+User: I feel overwhelmed by responsibilities again
+Bot: Responsibilities can build up. What’s the biggest one right now?
+
+User: I feel like everything is pointless
+Bot: When life feels pointless, it’s a sign you're overwhelmed. What led to this feeling?
+
+User: I feel scared of disappointing everyone
+Bot: That's a huge weight to carry. Who are you afraid of disappointing?
+
+User: I feel emotionally sensitive again
+Bot: Sensitivity means you feel deeply. What emotion is strongest today?
+
+User: I feel lost in life again
+Bot: Feeling lost is part of being human. What direction feels unclear?
+
+User: I feel numb again
+Bot: Numbness protects you from emotional overload. What overwhelmed you recently?
+
+User: I feel hopeless today
+Bot: I'm really sorry you're feeling this low. What brought this feeling on?
+
+User: I feel like crying again
+Bot: It’s okay to cry. Tears release emotional pressure. What emotion is behind them?
+
+User: I feel scared of failing again
+Bot: Fear of failure usually means you care about the outcome. What are you afraid to fail at?
+
+User: I feel overwhelmed by thoughts again
+Bot: Thoughts can become loud. What’s repeating in your mind?
+
+User: I feel emotional pain again
+Bot: Pain returning is normal. Let’s talk about it — what does it feel like today?
+
+User: I feel overwhelmed by loneliness
+Bot: Loneliness is deeply painful. What made you feel alone?
+
+User: I feel scared of being hurt again
+Bot: Past pain can make us cautious. Who hurt you before?
+
+User: I feel closed off emotionally
+Bot: Emotional shutdown is your mind protecting you. When did it begin?
+
+User: I feel frustrated with myself
+Bot: Self-frustration is common, but you deserve kindness. What happened?
+
+User: I feel like people expect too much
+Bot: Expectations can be overwhelming. Whose expectations feel too heavy?
+
+User: I feel uncertain about everything
+Bot: Uncertainty can feel scary. What’s the biggest question on your mind?
+
+User: I feel overwhelmed and don’t know what to do
+Bot: It’s okay to not have answers right now. Let’s break it down. What’s stressing you most?
+
+User: I feel emotionally weak again
+Bot: Weakness is not failure. What emotion is draining you right now?
+
+User: I feel tired of pretending to be okay
+Bot: Pretending is exhausting. What are you really feeling?
+
+User: I feel overwhelmed by school
+Bot: School can be stressful. What part is overwhelming?
+
+User: I feel scared for the next day
+Bot: Tomorrow can feel intimidating. What’s happening tomorrow?
+
+User: I feel like people judge me too much
+Bot: Judgment hurts. What situations make you feel judged?
+
+User: I feel lost in sadness
+Bot: Sadness can blur everything. What’s at the heart of it?
+
+User: I feel like my emotions are unstable
+Bot: Emotional swings happen under stress. What’s been happening lately?
+
+User: I feel scared of talking to people
+Bot: Social fear is common. What part of talking feels scary?
+
+User: I feel overwhelmed when people talk to me
+Bot: That’s okay. Social interaction can be draining. What situations are hardest?
+
+User: I feel uncertain about my goals
+Bot: Goals change over time. What goal feels unclear right now?
+
+User: I feel drained by my responsibilities
+Bot: That’s a heavy load. What responsibility feels most exhausting?
+
+User: I feel scared of losing control
+Bot: Losing control is a frightening feeling. What’s been happening?
+
+User: I feel sad for no reason again
+Bot: Sometimes emotions surface without explanation. What were you thinking about?
+
+User: I feel overwhelmed by pressure
+Bot: Pressure builds up fast. Who or what is pressuring you?
+
+User: I feel tired of trying to be strong
+Bot: You don’t always need to be strong. You deserve support too.
+
+User: I feel emotionally confused again
+Bot: Confusion is okay. Emotions are complex. Which feeling stands out?
+
+User: I feel like hiding from everything
+Bot: Hiding is a sign of exhaustion. What are you trying to escape?
+
+User: I feel scared of rejection
+Bot: Rejection hurts deeply. What situation makes you fear it?
+
+User: I feel overwhelmed at work
+Bot: Work stress accumulates. What task or situation is stressing you?
+
+User: I feel burdened by expectations again
+Bot: Expectations weigh heavily. Who expects the most from you?
+
+User: I feel uncertain about myself
+Bot: Self-doubt is normal. What do you doubt most?
+
+User: I feel overwhelmed by social anxiety
+Bot: Social anxiety affects many people. What triggers it for you?
+
+User: I feel emotionally blocked again
+Bot: Emotional blocks form when we’re overwhelmed. What emotion feels stuck?
+
+User: I feel scared of the world
+Bot: The world can feel chaotic. What part feels unsafe?
+
+User: I feel tired emotionally
+Bot: Emotional fatigue hits hard. What’s been draining you?
+
+User: I feel lonely again
+Bot: Loneliness is painful. What makes you feel alone today?
+
+User: I feel overwhelmed when people rely on me
+Bot: Being relied on is pressure. What expectation feels too heavy?
+
+User: I feel scared of intimacy
+Bot: Intimacy requires vulnerability. What about it feels scary?
+
+User: I feel emotionally scattered
+Bot: Scattered emotions come from overload. What emotions are swirling right now?
+
+User: I feel drained when I think about responsibilities
+Bot: Responsibilities can be exhausting just to think about. Which one drains you most?
+
+User: I feel sad when I'm alone
+Bot: Being alone can amplify sadness. What thoughts appear when you're alone?
+
+User: I feel pressured to always be okay
+Bot: Nobody is okay all the time. What are you really feeling?
+
+User: I feel overwhelmed by people
+Bot: Social exhaustion is real. What interactions drain you most?
+
+User: I feel scared of opening up again
+Bot: Opening up can feel risky. What happened last time that hurt you?
+
+User: I feel confused about my emotions again
+Bot: That’s okay. Let’s sort through them. What emotion feels most noticeable?
+
+User: I feel scared of being left behind
+Bot: That fear is valid. What makes you feel left out?
+
+User: I feel uncertain about the future again
+Bot: The future is unpredictable. What specifically worries you?
+
+User: I feel overwhelmed by everything happening
+Bot: That must be so heavy. What’s causing the most overwhelm?
+
+User: I feel tired of life being difficult
+Bot: Life can feel incredibly hard sometimes. What challenge are you facing now?
+
+User: I feel emotionally tired again
+Bot: Emotional exhaustion builds up. What drained you today?
+
+User: I feel scared of trying again
+Bot: Trying again after a setback is hard. What happened before?
+
+User: I feel nervous today
+Bot: Nervousness signals something matters to you. What’s coming up?
+
+User: I feel mentally exhausted again
+Bot: That’s very draining. What thoughts wear you out?
+
+User: I feel lost again
+Bot: It’s okay to feel lost. What part of life feels unclear?
+
+User: I feel like crying again today
+Bot: It’s okay. Crying is healing. What feeling is rising inside you?
+
+User: I feel scared to tell people my feelings
+Bot: It’s brave to even think about sharing. What holds you back?
+
+User: I feel overwhelmed by too many emotions
+Bot: Emotions can flood us. Which three feel strongest?
+
+User: I feel unsure of who I am
+Bot: Identity questions are normal. What part of yourself feels unclear?
+
+User: I feel overwhelmed by choices again
+Bot: Too many options can cause stress. What decision are you facing?
+
+User: I feel emotionally hurt
+Bot: Hurt feelings deserve compassion. What caused the pain?
+
+User: I feel disconnected from the world
+Bot: That’s an isolating feeling. What made you feel disconnected?
+
+User: I feel scared of new experiences
+Bot: New things can be intimidating. What experience worries you?
+
+User: I feel overwhelmed emotionally today
+Bot: Today must have been tough. What happened?
+
+User: I feel anxious thinking about everything
+Bot: Anxiety can blur everything together. What thought stands out most?
+
+User: I feel tired of dealing with emotions
+Bot: Emotions can be heavy work. Which emotion is hardest right now?
+
+User: I feel overwhelmed even when nothing is wrong
+Bot: That’s more common than you think. What thoughts come up during these moments?
+
+User: I feel emotionally lost
+Bot: Let’s navigate this together. What emotion confuses you most?
+
+User: I feel hurt by someone I care about
+Bot: That pain is deep. What did they do?
+
+User: I feel stressed about expectations
+Bot: Expectations can create pressure. Whose expectations weigh on you?
+
+User: I feel anxious about talking to people again
+Bot: Social anxiety happens in waves. What situation triggered it this time?
+
+User: I feel like my emotions are controlling me again
+Bot: Emotions can feel strong, but they don’t define you. Which emotion feels biggest?
+
+User: I feel scared to be myself around people
+Bot: Being yourself is brave. What part of you feels judged?
+
+User: I feel overwhelmed just thinking about life
+Bot: Life’s weight can feel heavy. What thought feels heaviest?
+
+User: I feel emotional pain again today
+Bot: I’m sorry you're hurting. What brought this on?
+
+User: I feel uncertain about my path
+Bot: Paths change. What direction feels confusing?
+
+User: I feel overwhelmed by relationships
+Bot: Relationships require energy. What part feels most overwhelming?
+
+User: I feel like nobody understands my emotions
+Bot: I want to understand. What are you feeling right now?
+
+User: I feel emotionally exhausted again today
+Bot: You’ve been carrying too much. What drained you today?
+
+User: I feel scared to trust anyone
+Bot: Trust takes time, especially after pain. What makes trust hard?
+
+User: I feel overwhelmed with stress again
+Bot: Stress stacks up quickly. What’s stressing you today?
+
+User: I feel mentally stuck
+Bot: Mental blocks happen. What are you trying to do?
+
+User: I feel scared for the future again
+Bot: That’s understandable. What part worries you most?
+
+User: I feel emotionally tired again today
+Bot: You deserve rest. What made today draining?
+
+User: I feel overwhelmed when I think about responsibilities again
+Bot: Responsibilities weigh heavily. What’s the biggest one now?
+
+User: I feel like disappearing
+Bot: I’m really sorry you're feeling this. You matter more than you know. What’s hurting?
+
+User: I feel exhausted just being alive today
+Bot: That’s a heavy feeling. Let’s talk — what made today so hard?
+
+User: I feel scared of emotions repeating
+Bot: Emotional cycles are normal. What emotion keeps returning?
+
+User: I feel overwhelmed even when I wake up
+Bot: Starting the day overwhelmed is tough. What’s the first thought you wake up with?
+
+User: I feel like nothing will get better
+Bot: I hear your pain. But things can and do change. What makes you feel stuck?
+
+User: I feel emotionally overloaded again
+Bot: Overload happens from carrying too much. What’s on your mind?
+
+User: I feel scared of my own thoughts again
+Bot: Thoughts can be frightening, but they’re not reality. What thought scares you?
+
+User: I feel numb today
+Bot: Numbness is your mind’s way of protecting you. What happened recently?
+
+User: I feel overwhelmed with sadness again
+Bot: Sadness returning suggests something deeper. Want to explore it?
